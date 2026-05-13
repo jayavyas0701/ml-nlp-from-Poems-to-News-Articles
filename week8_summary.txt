@@ -1,0 +1,36 @@
+
+================================================================================
+WEEK 8 NLP POETS - FINAL SUMMARY
+================================================================================
+
+Poets Analyzed: Charles Bukowski vs William Shakespeare
+Poems per poet: 20
+
+VOCABULARY COMPARISON:
+  Charles Bukowski:
+    Total unique words: 1491
+    Noun/Verb ratio: 1.30
+
+  William Shakespeare:
+    Total unique words: 2211
+    Noun/Verb ratio: 1.74
+
+SIMILARITY METRICS:
+  As-is similarity: 0.2696
+
+TOPIC MODELING:
+  LDA topics extracted: 5
+
+EXTRA CREDIT:
+  Historical context similarity:
+    Charles Bukowski: 0.0103
+    William Shakespeare: 0.0409
+
+FILES GENERATED:
+  ✓ JSON data files
+  ✓ Word frequency charts
+  ✓ Word clouds
+  ✓ POS comparison charts
+  ✓ LDA visualizations
+
+================================================================================
